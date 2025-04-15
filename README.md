@@ -1,31 +1,24 @@
-``markdown
-Projeto InovaCazenga 🚀
+```python
+def apresentar_projeto():
+    print("🌟 InovaCazenga: Transformando Vidas com Tecnologia 🌟\n")
+    print("Olá, equipe DIO!\n")
+    print("Somos o InovaCazenga, um projeto nascido no coração do Cazenga - Luanda, Angola.")
+    print("Nossa missão? Tirar jovens das ruas, longe das drogas e da criminalidade,")
+    print("e colocá-los no caminho da tecnologia, inovação e do futuro.\n")
+    
+    print("🎯 Objetivo Principal:")
+    print("- Criar uma incubadora de startups e centro de formação tecnológica para jovens angolanos.")
+    
+    print("\n🤝 Por que precisamos da DIO?")
+    print("- A DIO é referência em educação tecnológica.")
+    print("- Com a sua parceria, podemos ampliar o alcance, garantir formação de qualidade e")
+    print("  inspirar milhares de jovens a sonhar alto e criar soluções para seus próprios bairros.")
+    
+    print("\n💡 Vamos juntos criar oportunidades, mudar destinos e construir um novo futuro para Angola.")
+    print("\n📞 Contato: ‪+244 929 507 131‬")
+    print("📧 Email: miguelmaxixi@gmail.com / miguel.andrade.armando1993@gmail.com")
+print("🌐 Esperamos pela DIO para fazer história com a gente!")
 
-O InovaCazenga é uma iniciativa social e tecnológica que visa transformar a vida de jovens em Angola, começando pelo bairro do Cazenga, através da educação em tecnologia, inovação e empreendedorismo.
-
-📌 Objetivo
-
-Retirar jovens da criminalidade, do uso de drogas e da marginalização, oferecendo capacitação tecnológica desde o nível básico ao avançado. Preparar jovens para o mercado de trabalho e fomentar o autoemprego.
-
-📸 Prints e Etapas
-
-Planejamento
-![Planejamento](link_da_imagem)
-Oportunidade de empoderar comunidades marginalizadas com educação e inovação.
-- Potencial para escalar o projeto para outras províncias e países africanos.
-- Parcerias com empresas como Microsoft, Cisco e Huawei podem ampliar o impacto.
-
-🛠 Habilidades Desenvolvidas
-
-- Criação de projetos sociais com impacto real.
-- Redação de propostas institucionais.
-- Elaboração de documentos legais para ONGs.
-- Estratégias de divulgação e captação de recursos.
-
-📞 Contatos
-
-- 📱 WhatsApp: ‪+244 929 507 131‬
-- 📧 Email: miguelmaxixi@gmail.com / Miguel.andrade.armando1993@gmail.com
-
----
-# Inovacazenga.
+Executar
+apresentar_projeto()
+```
